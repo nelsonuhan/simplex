@@ -1,4 +1,4 @@
-# The Simplex Method
+# The simplex method, step-by-step
 
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nelsonuhan/simplex/master?filepath=simplex.ipynb)
 
