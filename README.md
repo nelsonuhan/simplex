@@ -1,6 +1,6 @@
 # The Simplex Method
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/nelsonuhan/simplex)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nelsonuhan/simplex/master?filepath=simplex.ipynb)
 
 This notebook executes and shows each step of the simplex method using Dantzig's rule as described in:
 
